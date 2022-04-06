@@ -1,6 +1,6 @@
 package Class;
 
-public class Seccion {
+public class Section {
     private String name;
     private int hall;
     private Person manager;

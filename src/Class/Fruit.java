@@ -7,7 +7,7 @@ public class Fruit {
     private float averageWeight;
     private float price;
     public ArrayList<String> colors;
-    public Seccion category;
+    public Section category;
 
 
     //Methods Get and Set

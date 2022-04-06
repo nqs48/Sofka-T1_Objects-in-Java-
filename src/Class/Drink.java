@@ -5,7 +5,7 @@ public class Drink {
     private float averageWeight;
     private float price;
     private boolean alcoholic;
-    public Seccion category;
+    public Section category;
 
     //Methods Get and Set
     public String getName() {
