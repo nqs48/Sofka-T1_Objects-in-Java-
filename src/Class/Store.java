@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * @author Nestor Quiroga
  * Class Store
  */
-
 public class Store {
     /**
      * Store's name

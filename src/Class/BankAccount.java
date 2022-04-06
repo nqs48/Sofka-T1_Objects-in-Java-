@@ -1,10 +1,9 @@
 package Class;
 
 /**
- * Class BankAcount for add pay information of the customer
  * @author Nestor Quiroga
+ * Class BankAcount for add pay information of the customer
  */
-
 public class BankAccount {
     /**
      * Represents the number account

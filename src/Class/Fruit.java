@@ -25,7 +25,7 @@ public class Fruit {
     /**
      * Fruit's colors type arraylist, is a string list
      */
-    public ArrayList<String> colors;
+    public ArrayList<String> colors= new ArrayList<String>();
 
     /**
      * Fruit's category type Section, is a object type section
