@@ -3,6 +3,7 @@ package Class;
 public class BankAccount {
     private int accountNumber;
     private boolean activated;
+    private float balance;
 
 
     //Methods Get and Set
@@ -15,4 +16,11 @@ public class BankAccount {
     }
 
 
+    private float getBalance() {
+        return balance;
+    }
+
+    private void setBalance(float balance) {
+        this.balance = balance;
+    }
 }

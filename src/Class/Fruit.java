@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Fruit {
     public String name;
     private float averageWeight;
+    private float price;
     public ArrayList<String> colors;
 
 
@@ -18,4 +19,12 @@ public class Fruit {
         return colors;
     }
 
+
+    private float getPrice() {
+        return price;
+    }
+
+    private void setPrice(float price) {
+        this.price = price;
+    }
 }

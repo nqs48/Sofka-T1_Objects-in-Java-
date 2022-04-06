@@ -7,8 +7,11 @@ public class Person {
     private String name;
     public String lastName1;
     public String lastName2;
+    private String identification;
+    private String rank;
     public Date dateBirth;
     public float height;
+
 
 
     //Methods Get and Set
