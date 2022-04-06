@@ -3,7 +3,7 @@ package Class;
 import java.util.ArrayList;
 
 public class Store {
-    public String name;
+    private String name;
     private String direction;
     private String telephone;
     public String city;
@@ -25,5 +25,13 @@ public class Store {
 
     private void setTelephone(String telephone) {
         this.telephone = telephone;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
