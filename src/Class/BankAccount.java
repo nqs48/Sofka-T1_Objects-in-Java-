@@ -34,7 +34,7 @@ public class BankAccount {
 
     /**
      * Get the account state
-     * @return returns the current account state can be True or False
+     * @return returns the current account state type boolean
      */
     public boolean getActivated() {
         return activated;
@@ -42,7 +42,7 @@ public class BankAccount {
 
     /**
      * Get the account balance(dollars)
-     * @return returns the current account balance
+     * @return returns the current account balance type float
      */
     protected float getBalance() {
         return balance;
@@ -50,7 +50,7 @@ public class BankAccount {
 
     /**
      * Set the new value of account balance
-     * @param balance new value for set the account balance
+     * @param balance new value for set the account balance type float
      */
     protected void setBalance(float balance) {
         this.balance = balance;

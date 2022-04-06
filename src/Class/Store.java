@@ -34,7 +34,7 @@ public class Store {
     public Person administrador;
 
     /**
-     * Store's section type Section, is a object list
+     * Store's section type arraylist, is a object list type section
      */
     public ArrayList<Section> sections;
 
@@ -43,7 +43,7 @@ public class Store {
 
     /**
      * Get the current store's direction
-     * @return returns the value Store's direction
+     * @return returns the value Store's direction type String
      */
     private String getDirection() {
         return direction;
@@ -51,7 +51,7 @@ public class Store {
 
     /**
      * Set the new store's direction
-     * @param direction Contains the new direction
+     * @param direction Contains the new direction type string
      */
     private void setDirection(String direction) {
         this.direction = direction;
@@ -67,7 +67,7 @@ public class Store {
 
     /**
      * Set the new store's telephone
-     * @param telephone Contains the new telephone number
+     * @param telephone Contains the new telephone number type string
      */
     private void setTelephone(String telephone) {
         this.telephone = telephone;
