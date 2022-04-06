@@ -1,8 +1,17 @@
 package Class;
 
 public class Seccion {
-    public String name;
+    private String name;
     private int hall;
     private Person manager;
+
+
+    private String getName() {
+        return name;
+    }
+
+    private void setName(String name) {
+        this.name = name;
+    }
 
 }

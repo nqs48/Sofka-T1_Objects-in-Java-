@@ -2,12 +2,16 @@ package Class;
 
 import java.util.ArrayList;
 
+/**
+ * @author Nestor Quiroga
+ */
+
 public class Store {
     private String name;
     private String direction;
     private String telephone;
     public String city;
-    private Person administrador;
+    public Person administrador;
     public ArrayList<Seccion> seccions;
 
 

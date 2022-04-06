@@ -20,7 +20,6 @@ public class Fruit {
         return colors;
     }
 
-
     private float getPrice() {
         return price;
     }
