@@ -67,7 +67,7 @@ public class Store {
 
     /**
      * Set the new store's telephone
-     * @param telephone Contains the new telephone number type string
+     * @param telephone Contains the new telephone number
      */
     private void setTelephone(String telephone) {
         this.telephone = telephone;
