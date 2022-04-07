@@ -31,13 +31,13 @@ Install each one the softwares previously mentioned.
 
 - HTTPS
    ```
-   git clone https://github.com/nqs48/Sofka-T1_Objects-in-Java.git
+   git clone https://github.com/nqs48/Sofka-T1_Objects-in-Java-.git
    ```
 
 
 - SSH
    ```
-   git@github.com:nqs48/Sofka-T1_Objects-in-Java.git
+   git clone git@github.com:nqs48/Sofka-T1_Objects-in-Java-.git
    ```
    
    
@@ -59,6 +59,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nestor Quiroga - LinkedIn => [@nqs48](https://www.linkedin.com/in/nqs48/) - nqs48@hotmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/nqs48/Sofka-T1_Objects-in-Java-](https://github.com/nqs48/Sofka-T1_Objects-in-Java-)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
